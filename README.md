@@ -5,9 +5,9 @@
 - Marcos Cortizo Albiñana
 
 ## Project Overview
-This project was developed as part of the Biomedical Engineering Degree at the University of Vigo.
-The objective was to develop and evaluate machine learning models capable of predicting the risk of exacerbation in patients with Chronic Obstructive Pulmonary Disease (COPD) using clinical data.
-The project follows a complete machine learning workflow, including data preprocessing, model training, model comparison, and external validation.
+This project focuses on the development of a machine learning pipeline for predicting the risk of exacerbation in patients with Chronic Obstructive Pulmonary Disease (COPD).
+The workflow includes data preprocessing, feature preparation, model training, performance evaluation, and external validation. Multiple machine learning algorithms were compared, including Decision Trees, Random Forests, Support Vector Machines, K-Nearest Neighbors, and Logistic Regression.
+Random Forest was selected as the final model based on its predictive performance.
 
 ## Workflow
 
