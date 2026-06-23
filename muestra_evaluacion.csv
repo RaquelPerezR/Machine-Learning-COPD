@@ -1,0 +1,7 @@
+FEV1_L,FVC_L,Ratio_FEV1_FVC,Flujo_Espiratorio_Max_L_min,Capacidad_Pulmonar_Total_L,Saturacion_O2_Reposo_porcentaje,Saturacion_O2_Esfuerzo_porcentaje,Nivel_Eosinofilos_cel_mcL,Distancia_Marcha_6min_m,Frecuencia_Respiratoria_rpm,Anios_Fumador,ID_Paciente,Prueba_Principal,Calibracion_Equipo,Exposicion_Biomasa
+2.72,2.4,0.53,318.58,5.44,89.54,87.42,521.75,309.75,18.35,48,NEUMO-327780,Espirometría con Broncodilatador,OK,ninguna
+3.57,4.03,0.55,347.84,8.08,91.74,80.98,370.24,279.4,19.51,22,NEUMO-191227,Espirometría con Broncodilatador,OK,Baja
+3.44,3.98,0.84,236.44,7.28,91.05,93.71,462.01,223.04,20.78,25,NEUMO-518786,Espirometría con Broncodilatador,OK,ninguna
+3.08,5.21,0.56,622.05,5.53,92.68,104.73,605.16,753.7,26.97,21,NEUMO-152346,Espirometría con Broncodilatador,OK,ALTA
+3.03,3.07,0.78,478.49,6.39,92.31,96.75,393.06,480.88,23.22,9,NEUMO-994326,Espirometría con Broncodilatador,OK,Alta
+2.35,2.94,0.59,486.34,6.33,94.47,100.6,345.6,640.81,13.16,0,NEUMO-937270,Espirometría con Broncodilatador,OK,Baja
