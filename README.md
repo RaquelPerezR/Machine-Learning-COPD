@@ -5,40 +5,54 @@
 - Marcos Cortizo Albiñana
 
 ## Project Overview
-This project develops a machine learning pipeline to predict the risk of exacerbation in patients with Chronic Obstructive Pulmonary Disease (COPD).
-The workflow includes:
-- Data preprocessing
-- Missing value treatment
-- Outlier analysis
-- Feature preparation
-- Model training
-- Model comparison
-- External validation
+This project was developed as part of the Biomedical Engineering Degree at the University of Vigo.
+The objective was to develop and evaluate machine learning models capable of predicting the risk of exacerbation in patients with Chronic Obstructive Pulmonary Disease (COPD) using clinical data.
+The project follows a complete machine learning workflow, including data preprocessing, model training, model comparison, and external validation.
 
-## Algorithms Evaluated
+## Workflow
+
+### 1. Data Preprocessing
+- Data exploration and cleaning
+- Missing value treatment
+- Outlier analysis and removal
+- Feature preparation and encoding
+- Dataset preparation for machine learning
+
+### 2. Machine Learning Models
+Several supervised learning algorithms were trained and evaluated:
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
 
-## Selected Model
-Random Forest was selected as the final model based on validation performance.
+### 3. Model Selection and Validation
+The models were compared using performance metrics obtained during validation.
+Random Forest was selected as the final model due to its overall predictive performance.
+An external validation dataset was used to evaluate the generalization capability of the selected model.
 
-## Technologies
+## Repository Contents
+- `1Preprocesado.ipynb` – Data preprocessing workflow
+- `2AlgoritmosML.ipynb` – Model training and comparison
+- `3Validación.ipynb` – External validation process
+- `random_forest_media_moda_sin_outliers.pkl` – Trained Random Forest model
+  
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-Learn
+- Matplotlib
 - Google Colab
 - Jupyter Notebook
 
-## Repository Contents
-- 1Preprocesado.ipynb
-- 2AlgoritmosML.ipynb
-- 3Validación.ipynb
-- Trained Random Forest model
-- Training and evaluation datasets
+---
 
-            Biomedical Engineering Degree  
-            University of Vigo
+## Academic Use Notice
+The original datasets used during the development of this project are not included in this repository.
+This repository is intended to showcase the methodology, implementation, and machine learning workflow developed during the project.
+
+---
+
+University of Vigo  
+Bachelor's Degree in Biomedical Engineering
