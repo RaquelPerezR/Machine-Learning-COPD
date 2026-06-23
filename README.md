@@ -49,8 +49,9 @@ An external validation dataset was used to evaluate the generalization capabilit
 ---
 
 ## Academic Use Notice
-The original datasets used during the development of this project are not included in this repository.
 This repository is intended to showcase the methodology, implementation, and machine learning workflow developed during the project.
+Only a small evaluation sample and the corresponding prediction results are included for demonstration purposes.
+The complete training dataset is not distributed in this repository.
 
 ---
 
